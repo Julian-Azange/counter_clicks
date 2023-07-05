@@ -1,16 +1,17 @@
-# hello_world_app
+# Contador de Clicks en Flutter
 
-A new Flutter project.
+Este repositorio contiene una aplicación de muestra desarrollada en Flutter que utiliza funciones básicas para contar clicks. La aplicación muestra un contador en pantalla y cada vez que se hace clic en un botón, el contador se incrementa en uno.
 
-## Getting Started
+## Capturas de pantalla
 
-This project is a starting point for a Flutter application.
+![Captura](screenshot1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Muestra un contador en pantalla.
+- Un botón que permite incrementar el contador en uno al hacer clic.
+- Un botón que permite refrescar el contador a 0.
+- Un botón que permite decrementar el contador en uno al hacer clic.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+La aplicación es el resultado de la sección 4 del Curso de Flutter de Fernando Herrrera.
