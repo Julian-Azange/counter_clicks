@@ -4,7 +4,7 @@ Este repositorio contiene una aplicación de muestra desarrollada en Flutter que
 
 ## Capturas de pantalla
 
-![Captura](screenshot.png)
+![Captura](pantallazo.jpg)
 
 ## Funcionalidades
 
